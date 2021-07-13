@@ -1,0 +1,12 @@
+table.factura {
+    border-collapse: collapse;
+  }
+  
+  table.factura td {
+    width: 120px;
+    height: 70px;
+  }
+  
+  /* table.manji td.with-color {
+    background-color: crimson;
+  } */
